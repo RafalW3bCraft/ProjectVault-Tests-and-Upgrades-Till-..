@@ -1,5 +1,5 @@
 ###
-[BotBotLink](https://github.com/RafalW3bCraft/ProjectVault-Tests-and-Upgrades-Till-..)
+[BotBotLink](https://rafalw3bcraft.github.io/ProjectVault-Tests-and-Upgrades-Till-../)
 ###
 ###
 
